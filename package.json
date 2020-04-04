@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "next": "^9.3.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "name": "michael_portfolio",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": "git+https://github.com/DonSintaro/michael_portfolio.git",
+  "author": "DonSintaro <jarriaga.important@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DonSintaro/michael_portfolio/issues"
+  },
+  "homepage": "https://github.com/DonSintaro/michael_portfolio#readme"
+}
